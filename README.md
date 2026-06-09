@@ -23,7 +23,7 @@ I'm **Sudeshna Dash**, a developer exploring the intersection of **AI, Machine L
 
 <td width="40%" align="center">
 
-<img src="profile" width="320"/>
+<img src="my" width="320"/>
 
 </td>
 
