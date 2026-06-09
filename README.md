@@ -23,7 +23,7 @@ I'm **Sudeshna Dash**, a developer exploring the intersection of **AI, Machine L
 
 <td width="40%" align="center">
 
-<img src="ChatGPT Image May 28, 2026, 10_18_25 PM.png" width="320"/>
+<img src="........png"/>
 
 </td>
 
