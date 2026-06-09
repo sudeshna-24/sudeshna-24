@@ -110,7 +110,7 @@ I'm **Sudeshna Dash**, a developer exploring the intersection of **AI, Machine L
 <a href="https://www.github.com/sudeshna-24" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/sudeshna-dash" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </a>&nbsp;
 </p>
